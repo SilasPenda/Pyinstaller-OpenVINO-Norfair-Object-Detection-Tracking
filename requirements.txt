@@ -1,0 +1,17 @@
+matplotlib
+norfair
+numpy
+onnxruntime-openvino
+opencv-contrib-python==4.6.0.66
+opencv-python==4.5.5.64
+openvino==2022.1.0
+openvino-dev==2022.1.0
+pandas
+scikit-image
+scikit-learn
+scipy
+streamlit==0.88.0
+tensorflow==2.5.3
+torch==1.12.1
+tqdm
+Yaml8==0.1.2
