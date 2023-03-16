@@ -82,7 +82,7 @@ pyinstaller --add-data "lp.mp4;." --add-data "openvino\public\yolo-v4-tf\FP32\yo
 ```
 NB: Replace ';' with ':' for linux machines. Refer to this link for commands to customize .spec file: 'https://pyinstaller.org/en/stable/usage.html#what-to-bundle-where-to-search'
 
-If build was successful, two folders will be created: build and dist. Inside the 'dist' folder you'll find the executable(.exe) file.
+If build was successful, 'build' and 'dist' folders will be created. Inside the 'dist' folder you'll find the executable(.exe) file.
 
 Run '.exe' file
 
