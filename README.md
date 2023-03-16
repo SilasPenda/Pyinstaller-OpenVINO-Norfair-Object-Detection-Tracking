@@ -1,0 +1,1 @@
+# Pyinstaller-OpenVINO-Norfair-Object-Detection-Tracking
