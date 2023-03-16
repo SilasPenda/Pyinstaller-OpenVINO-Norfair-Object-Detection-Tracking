@@ -8,9 +8,9 @@ Download yolov4 .weights, .config, and .names files
 
 https://drive.google.com/file/d/1ffeOmcTy7yDPOXSgrr_lR2bNSIBJCZK3/view?usp=sharing
 
-Download video for Arabic OCR inference
+Download video for inference
 
-https://drive.google.com/file/d/16Tr45YGHcH16K-E7yfX-q7i-_E_jLQPw/view?usp=share_link
+https://drive.google.com/file/d/1xxcud0qlQ4xcEgrjNntLGmNlxncuTZRU/view?usp=sharing
 
 Clone the repo below & cd into it
 
