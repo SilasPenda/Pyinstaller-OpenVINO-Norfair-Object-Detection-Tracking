@@ -78,7 +78,7 @@ pip install pyinstaller
 Create and add files to '.spec' file and build the executable file
 
 ```
-pyinstaller --add-data "lp.mp4;." --add-data "yolo-v4-tf.xml;." --add-data "obj.names;." --add-data "C:\Users\sapen\Desktop\Workspace\Roc4Tech\openvino\Lib\site-packages\openvino\;." --onefile openvino_norfair_object_detection.py
+pyinstaller --add-data "lp.mp4;." --add-data "openvino\public\yolo-v4-tf\FP32\yolo-v4-tf.xml;." --add-data "obj.names;." --add-data "C:\Users\sapen\Desktop\Workspace\Roc4Tech\openvino\Lib\site-packages\openvino\;." --onefile openvino_norfair_object_detection.py
 ```
 NB: Refer to this link for commands to customize .spec file: 'https://pyinstaller.org/en/stable/usage.html#what-to-bundle-where-to-search'
 
